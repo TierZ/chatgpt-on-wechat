@@ -1,14 +1,14 @@
 {
-  "open_ai_api_key": "YOUR API KEY",
+  "open_ai_api_key": "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",
   "model": "gpt-3.5-turbo",
   "proxy": "",
   "single_chat_prefix": [
-    "bot",
-    "@bot"
+    "ZZ1993211",
+    "@ZZ1993211"
   ],
-  "single_chat_reply_prefix": "[bot] ",
+  "single_chat_reply_prefix": "[ZZ1993211] ",
   "group_chat_prefix": [
-    "@bot"
+    "@ZZ1993211"
   ],
   "group_name_white_list": [
     "ChatGPT测试群",
